@@ -1,0 +1,17 @@
+# Nom du Projet
+
+Une courte description de votre projet.
+
+## Table des Matières
+
+- [Installation](#installation)
+- [Utilisation](#utilisation)
+- [Contribution](#contribution)
+- [Licence](#licence)
+- [Contact](#contact)
+
+## Installation
+
+1. Clonez ce dépôt:
+```bash
+git clone https://github.com/votre_username/votre_repo.git
